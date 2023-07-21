@@ -9,7 +9,7 @@
 // My Solution
 function sumDigits(number) {
   // input is a number
-  // get absolue value of number (remove minus sign)
+  // get absolute value of number (remove minus sign)
   // turn input number into a string
   // split the string
   // turn new strings back into numbers
